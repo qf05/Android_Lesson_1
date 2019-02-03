@@ -16,7 +16,7 @@
 ---
 
 
-### Программа:
+### Программа курса:
 
 - #### Первое открытое занятие:
 
@@ -111,14 +111,14 @@
 ```
 1. Установить ПО (git, JDK8, Android Studio, Genymotion)</a>
 - Создать аккаунт на GitHub
-- Сделать Fork **ЭТОГО** проекта
+- Сделать Fork ЭТОГО проекта
 - Скачать и накатить патчи 
 ```
-[Patch](https://drive.google.com/file/d/1THrlPwoFIGVfd7T6yWFkFR_fiCkkdBrh/view?usp=sharing)
+[Download Patch](https://drive.google.com/file/d/1THrlPwoFIGVfd7T6yWFkFR_fiCkkdBrh/view?usp=sharing)
 ```
 Скачать ресурсы для HW_1 и разместить их в соответстующих директориях
 ```
-[Resources](https://drive.google.com/file/d/1L9cKSTV6GMOGiAi-OzP2Hj4PlRyo3BAP/view?usp=sharing)
+[Download Resources](https://drive.google.com/file/d/1L9cKSTV6GMOGiAi-OzP2Hj4PlRyo3BAP/view?usp=sharing)
 ```
 
 2. Создать три кнопки "Dog", "Cat", "Cthulhu", и расположить их в майн активити таким образом:
@@ -129,9 +129,11 @@
 
 3. Создать новое Activity "WalkActivity", 
 - в MainActivity все три кнопки должны при нажатии менять активити на WalkActivity
-- расположите в нем кнопку "home", для перехода обратно к MainActivity 
-- расположите в нем ImageView в котором должно отображаться изображение того животного с названием которого была нажата кнопка в MainActivity. (размер ImageView подберите исходя из здравого смысла:))
-- Задайте этому ImageView бесконечную анмацию перемещения по экрану в случайном направлении и на случайное растояние. ImageView не должен заходить за края видимого экрана.
+- расположите в WalkActivity кнопку "home", для перехода обратно к MainActivity 
+- расположите в WalkActivity ImageView в котором должно отображаться изображение того животного с названием 
+которого была нажата кнопка в MainActivity. (размер ImageView подберите исходя из здравого смысла:))
+- Примените к этому ImageView бесконечную анмацию перемещения по экрану в случайном направлении и на случайное 
+растояние. ImageView не должен заходить за края видимого экрана.
 
 
 4. Optional
@@ -149,7 +151,10 @@
 
 ---
 
+
+
 ### Дополнительные материалы:
+
 
 [Анимации в Android по полочкам](https://habr.com/ru/post/347918/)
 
