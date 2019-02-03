@@ -1,9 +1,9 @@
 
 <img src="https://cdn1.savepice.ru/uploads/2019/2/3/50aa6328bda9132ab6e0266ac6c7dcc7-full.png"/>
 
-# Star Android
+# Star Android & JAVA Online Projects  представляют:
 
-## Разработка Android приложения (Tamagotchi)
+## Курс по разработке Android приложения Tamagotchi.
 
 
 ---
@@ -74,13 +74,13 @@
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. О проекте и установка ПО.
 
-- [Android Studio](https://developer.android.com/studio/)
-- [Genymotion](https://www.genymotion.com)
-- [Что такое Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s/edit)
+- [**Android Studio**](https://developer.android.com/studio/)
+- [**Genymotion**](https://www.genymotion.com)
 - [GIT](https://git-scm.com/downloads)
-- [Установка GIT](https://www.youtube.com/watch?v=mpK_MYb38zs)
+- <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="30"/>[Установка GIT](https://www.youtube.com/watch?v=mpK_MYb38zs)
+- <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="30"/>[Что такое Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s/edit)
 - [JDK8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-- [Как установить JDK8](https://www.youtube.com/watch?v=D59Sd7D58F0)
+- <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="30"/>[Как установить JDK8](https://www.youtube.com/watch?v=D59Sd7D58F0)
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. Hello World
 
