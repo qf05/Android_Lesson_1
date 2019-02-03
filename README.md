@@ -1,5 +1,5 @@
 
-<img src="https://cdn1.savepice.ru/uploads/2019/2/3/50aa6328bda9132ab6e0266ac6c7dcc7-full.png" width="250"/>
+<img src="https://cdn1.savepice.ru/uploads/2019/2/3/50aa6328bda9132ab6e0266ac6c7dcc7-full.png"/>
 
 # Star Android
 
