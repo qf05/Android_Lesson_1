@@ -1,72 +1,71 @@
 
-<img src="https://drive.google.com/file/d/1SEtrETSAJTFu0GekuAqbAODWbxfTas4U/view?usp=sharing" width="250"/>
+<img src="https://cdn1.savepice.ru/uploads/2019/2/3/50aa6328bda9132ab6e0266ac6c7dcc7-full.png" width="250"/>
 
 # Star Android
 
 ## Разработка Android приложения (Tamagotchi)
 
----
 
-> **Требование к участникам: Знание Java Core.**
+---
+> **Требование к участникам:**
+> - **Знание Java Core.**
+
 > Оптимально:
 > - Курс [Base Java](http://javaops.ru/reg/basejava)
 > - Бесплатный курс ["Программирование под Андроид"](https://javarush.ru/quests/QUEST_GOOGLE_ANDROID) на Java Rush
-
 ---
+
 
 ### Программа:
 
-#### Первое открытое занятие:
+- #### Первое открытое занятие:
 
-Установка Android Studio и Genymotion
-Создание нового проекта.
-Hello World!
-Layout
-ImageView
-Button
-Смена Activity
-Animation
-Домашнее задание:
-- Дизайн main_activity
-- Анимация ImageView
-- Optional: воспроизведение звука при нажатии на ImageView (MediaPlayer)
+  - Установка Android Studio и Genymotion
+  - Создание нового проекта.
+  - Hello World!
+  - Layout
+  - ImageView
+  - Button
+  - Смена Activity
+  - Animation
+  - Домашнее задание: HW_1
 
-#### Занятие 2
+- #### Занятие 2
 
-Разбор HW_1
-Создание меню
-Lifecycle приложения на Android
-AlertDialog
-DataBase  SQLite
-Shared Preferences
-RecyclerView
-Домашнее задание: HW_2
+  - Разбор HW_1
+  - Создание меню
+  - Lifecycle приложения на Android
+  - AlertDialog
+  - DataBase  SQLite
+  - Shared Preferences
+  - RecyclerView
+  - Домашнее задание: HW_2
 
-#### Занятие 3
+- #### Занятие 3
 
-Разбор HW_2
-Receiver
-AlarmManager
-Handler
-Notification
-ProgressBar
-Домашнее задание: HW_3
+  - Разбор HW_2
+  - Receiver
+  - AlarmManager
+  - Handler
+  - Notification
+  - ProgressBar
+  - Домашнее задание: HW_3
 
-#### Занятие 4
+- #### Занятие 4
 
-Разбор HW_3
-Рефакторинг
-SoundPool
-Spinner Adapter
-No title bar
-Добавление коммерческой рекламы Admob
-landscape
-Домашнее задание: HW_4
+  - Разбор HW_3
+  - Рефакторинг
+  - SoundPool
+  - Spinner Adapter
+  - No title bar
+  - Добавление коммерческой рекламы Admob
+  - landscape
+  - Домашнее задание: HW_4
 
-#### Занятие 5 
+- #### Занятие 5 
 
-Разбор HW_4
-Публикация приложения в Google Play
+  - Разбор HW_4
+  - Публикация приложения в Google Play
 
 ---
 
@@ -75,11 +74,8 @@ landscape
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. О проекте и установка ПО.
 
-
-
 - [Android Studio](https://developer.android.com/studio/)
 - [Genymotion](https://www.genymotion.com)
-
 - [Что такое Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s/edit)
 - [GIT](https://git-scm.com/downloads)
 - [Установка GIT](https://www.youtube.com/watch?v=mpK_MYb38zs)
@@ -127,7 +123,7 @@ landscape
 
 2. Создать три кнопки "Dog", "Cat", "Cthulhu", и расположить их в майн активити таким образом:
 ```
-![buttons](https://drive.google.com/file/d/1bbPCsLNYpfAs4mxl9bQBl8BGzSPnM6Uc/view?usp=sharing)
+![buttons](https://cdn1.savepice.ru/uploads/2019/2/3/124cf95c5458fc74cab839ce0a814acb-full.jpg)
 ```
 кнопки не должны менять свое относительное положение в зависимости от размера экрана устройства.
 
@@ -153,8 +149,10 @@ landscape
 
 ---
 
-###Дополнительные материалы:
+### Дополнительные материалы:
 
 [Анимации в Android по полочкам](https://habr.com/ru/post/347918/)
+
 [Animation и Transition](http://developer.alexanderklimov.ru/android/animation/)
+
 [Анимации c помощью Transitions API](https://habr.com/ru/post/243363/)
