@@ -72,7 +72,7 @@
 ## Занятие 1
 
 
-### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [О проекте и установка ПО.](https://drive.google.com/open?id=1Ji9Cltgb5_hkFgYQpjxYboZtz2uoEv0x)
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [О проекте и установка ПО.](https://drive.google.com/open?id=1_rCSROQjSxQ8dqpNgOKuAsQacN59KGf_)
 
 - [**Android Studio**](https://developer.android.com/studio/)
 - [**Genymotion**](https://www.genymotion.com)
