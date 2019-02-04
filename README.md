@@ -109,7 +109,7 @@
 ## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Домашнее задание HW_1
 
 ```
-1. Установить ПО (git, JDK8, Android Studio, Genymotion)</a>
+1. Установить ПО (git, JDK8, Android Studio, Genymotion)
 - Создать аккаунт на GitHub
 - Сделать Fork ЭТОГО проекта
 - Скачать и накатить патчи 
