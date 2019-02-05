@@ -73,13 +73,14 @@
 
 - Установить ПО (git, JDK8, Android Studio, Genymotion)
 - Создать аккаунт на GitHub
-- Сделать Fork [ЭТОГО](https://github.com/qf05/Android_Lesson_1) проекта
+- Сделать Fork **[ЭТОГО](https://github.com/qf05/Android_Lesson_1)** проекта
 - Скачать патчи из "Материалов занятия"
 - По ходу видео сделать Apply Patch... соответствующего патча
 - Закоммитить и запушить изменения (commit + push)
 - Сделать ветку домашнего задания
 - Выполнить задание и залить на GitHub (commit + push)
 - Переключиться в основную ветку проекта master.
+**[Wiki по ведению проекта в Git](https://github.com/JavaOPs/topjava/wiki/Git)**
 
 ## [Материалы занятия](https://drive.google.com/open?id=1WPWIwHDHmeuf93dWTtaHloWpvX1Xkb9s)
 
@@ -92,6 +93,8 @@
 - [GIT](https://git-scm.com/downloads)
 - [Установка GIT](https://www.youtube.com/watch?v=mpK_MYb38zs) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
 - [Что такое Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s/edit) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
+  - [Видео по обучению Git](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
+  - [Основы Git за 20 минут](https://www.youtube.com/watch?v=TMeZGvtQnT8) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
 - [JDK8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Как установить JDK8](https://www.youtube.com/watch?v=D59Sd7D58F0) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
 
