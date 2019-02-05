@@ -107,7 +107,7 @@
 - [Единицы измерения](http://developer.alexanderklimov.ru/android/theory/scales.php)
 - [ImageView](http://developer.alexanderklimov.ru/android/views/imageview.php)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. Смена активити.
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. Смена активити
 
 Применить 1_1_other_activity.patch (apply + commit + push)
 
@@ -169,8 +169,8 @@
 - [Работа с ресурсами](https://metanit.com/java/android/2.4.php)
 - [Передача данных между Activity](http://developer.alexanderklimov.ru/android/activity.php#passdata)
 - для вычисления угла поворота используйте класс Math.
-- *Почитайте про класс [ObjectAnimator](https://developer.android.com/reference/android/animation/ObjectAnimator)
 - *[Android: MediaPlayer create](https://stackoverflow.com/questions/12154951/android-mediaplayer-create)
+- *Почитайте про класс [ObjectAnimator](https://developer.android.com/reference/android/animation/ObjectAnimator)
 
 ---
 
