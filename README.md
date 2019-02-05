@@ -79,6 +79,7 @@
 
 ### **[Wiki по ведению проекта в Git](https://github.com/JavaOPs/topjava/wiki/Git)**
 
+---
 
 # Занятие 1
 
