@@ -69,8 +69,21 @@
 
 ---
 
-## Занятие 1
+## Инструкция по работе с курсом:
 
+- Установить ПО (git, JDK8, Android Studio, Genymotion)
+- Создать аккаунт на GitHub
+- Сделать Fork [ЭТОГО](https://github.com/qf05/Android_Lesson_1) проекта
+- Скачать патчи из "Материалов занятия"
+- По ходу видео сделать Apply Patch... соответствующего патча
+- Закоммитить и запушить изменения (commit + push)
+- Сделать ветку домашнего задания
+- Выполнить задание и залить на GitHub (commit + push)
+- Переключиться в основную ветку проекта master.
+
+## [Материалы занятия](https://drive.google.com/open?id=1WPWIwHDHmeuf93dWTtaHloWpvX1Xkb9s)
+
+## Занятие 1
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [О проекте и установка ПО.](https://drive.google.com/open?id=1_rCSROQjSxQ8dqpNgOKuAsQacN59KGf_)
 
@@ -84,6 +97,8 @@
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. Hello World
 
+#### Apply 1_0_hallo_world.patch
+
 - [Компоненты экрана](https://startandroid.ru/ru/uroki/vse-uroki-spiskom/13-urok-4-elementy-ekrana-i-ih-svojstva.html)
 - [Layout](http://developer.alexanderklimov.ru/android/theory/layout.php)
 - [LinearLayout](http://developer.alexanderklimov.ru/android/layout/linearlayout.php)
@@ -93,30 +108,30 @@
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. Смена активити.
 
+#### Apply 1_1_other_activity.patch
+
 - [Activity](http://developer.alexanderklimov.ru/android/theory/activity-theory.php#what)
 - [Button](http://developer.alexanderklimov.ru/android/views/button.php)
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. Анимация
 
+#### Apply 1_2_animation.patch
+
 - [Анимация преобразований](http://developer.alexanderklimov.ru/android/animation/tweenanimation.php)
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 5. TranslateAnimation
 
+#### Apply 1_3_translate_animation.patch
+
 - [TranslateAnimation](http://developer.alexanderklimov.ru/android/animation/translateanimation.php)
+- [Определение начальных размеров View в Android](http://poetofcode.ru/programming/2017/06/12/kak-opredelit-nachalnyue-razmeryu-view-v-android.html)
 
 ---
 
 ## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Домашнее задание HW_1
 
 ```
-1. Установить ПО (git, JDK8, Android Studio, Genymotion)
-- Создать аккаунт на GitHub
-- Сделать Fork ЭТОГО проекта
-- Скачать и накатить патчи 
-```
-[Download Patch](https://drive.google.com/file/d/1THrlPwoFIGVfd7T6yWFkFR_fiCkkdBrh/view?usp=sharing)
-```
-Скачать ресурсы для HW_1 и разместить их в соответстующих директориях
+1. Скачать ресурсы для HW_1 и разместить их в соответстующих директориях
 ```
 [Download Resources](https://drive.google.com/file/d/1L9cKSTV6GMOGiAi-OzP2Hj4PlRyo3BAP/view?usp=sharing)
 ```
@@ -138,16 +153,17 @@
 
 4. Optional
 - Сделать так, что бы изображение животного в WalkActivity поворачивось лицом в направлении движения.
-- Сделать так, что бы при нажатии на изображение животного воспроизводился соответстующий животному звук.
+5. Optional 2 (Задание со звёздочкой)
+- * Сделать так, что бы при нажатии на изображение животного воспроизводился соответстующий животному звук.
 ```
 
 #### Замечания к HW1
 
 - [Работа с ресурсами](https://metanit.com/java/android/2.4.php)
 - [Передача данных между Activity](http://developer.alexanderklimov.ru/android/activity.php#passdata)
-- [Определение начальных размеров View в Android](http://poetofcode.ru/programming/2017/06/12/kak-opredelit-nachalnyue-razmeryu-view-v-android.html)
 - для вычисления угла поворота используйте класс Math.
-- Почитайте про класс [ObjectAnimator](https://developer.android.com/reference/android/animation/ObjectAnimator)
+- * Почитайте про класс [ObjectAnimator](https://developer.android.com/reference/android/animation/ObjectAnimator)
+- * [Android: MediaPlayer create](https://stackoverflow.com/questions/12154951/android-mediaplayer-create)
 
 ---
 
