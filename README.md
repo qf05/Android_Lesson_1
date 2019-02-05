@@ -3,15 +3,15 @@
 
 # Star Android & JAVA Online Projects  представляют:
 
-## Курс по разработке Android приложения Tamagotchi.
+## Курс по разработке приложения для Android: Tamagotchi
 
 
 ---
 > **Требование к участникам:**
-> - **Знание Java Core.**
+> - **Знание Java Core**
 
 > Оптимально:
-> - Курс [Base Java](http://javaops.ru/reg/basejava)
+> - Курс [BaseJava](http://javaops.ru/reg/basejava)
 > - Бесплатный курс ["Программирование под Андроид"](https://javarush.ru/quests/QUEST_GOOGLE_ANDROID) на Java Rush
 ---
 
@@ -21,7 +21,7 @@
 - #### Первое открытое занятие:
 
   - Установка Android Studio и Genymotion
-  - Создание нового проекта.
+  - Создание нового проекта
   - Hello World!
   - Layout
   - ImageView
@@ -71,23 +71,22 @@
 
 ## Инструкция по работе с курсом:
 
-- Установить ПО (git, JDK8, Android Studio, Genymotion)
-- Создать аккаунт на GitHub
-- Сделать Fork **[ЭТОГО](https://github.com/qf05/Android_Lesson_1)** проекта
-- Скачать патчи из "Материалов занятия"
 - По ходу видео сделать Apply Patch... соответствующего патча
 - Закоммитить и запушить изменения (commit + push)
 - Сделать ветку домашнего задания
 - Выполнить задание и залить на GitHub (commit + push)
-- Переключиться в основную ветку проекта master.
+- Переключиться в основную ветку проекта master
 
-**[Wiki по ведению проекта в Git](https://github.com/JavaOPs/topjava/wiki/Git)**
+### **[Wiki по ведению проекта в Git](https://github.com/JavaOPs/topjava/wiki/Git)**
 
-## [Материалы занятия](https://drive.google.com/open?id=1WPWIwHDHmeuf93dWTtaHloWpvX1Xkb9s)
 
 ## Занятие 1
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [О проекте и установка ПО.](https://drive.google.com/open?id=1_rCSROQjSxQ8dqpNgOKuAsQacN59KGf_)
+
+#### 1. Установить ПО (git, JDK8, Android Studio, Genymotion)
+
+#### 2. Создать аккаунт на GitHub
 
 - [**Android Studio**](https://developer.android.com/studio/)
 - [**Genymotion**](https://www.genymotion.com)
@@ -101,7 +100,11 @@
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. Hello World
 
-#### Apply 1_0_hallo_world.patch
+#### 1. Сделать Fork **[ЭТОГО](https://github.com/qf05/Android_Lesson_1)** проекта
+
+#### 2. [Скачать патчи](https://drive.google.com/open?id=1WPWIwHDHmeuf93dWTtaHloWpvX1Xkb9s)
+
+#### 3. Применить 1_0_hallo_world.patch (apply + commit + push)
 
 - [Компоненты экрана](https://startandroid.ru/ru/uroki/vse-uroki-spiskom/13-urok-4-elementy-ekrana-i-ih-svojstva.html)
 - [Layout](http://developer.alexanderklimov.ru/android/theory/layout.php)
@@ -112,20 +115,20 @@
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. Смена активити.
 
-#### Apply 1_1_other_activity.patch
+#### Применить 1_1_other_activity.patch (apply + commit + push)
 
 - [Activity](http://developer.alexanderklimov.ru/android/theory/activity-theory.php#what)
 - [Button](http://developer.alexanderklimov.ru/android/views/button.php)
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. Анимация
 
-#### Apply 1_2_animation.patch
+#### Применить 1_2_animation.patch (apply + commit + push)
 
 - [Анимация преобразований](http://developer.alexanderklimov.ru/android/animation/tweenanimation.php)
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 5. TranslateAnimation
 
-#### Apply 1_3_translate_animation.patch
+#### Применить 1_3_translate_animation.patch (apply + commit + push)
 
 - [TranslateAnimation](http://developer.alexanderklimov.ru/android/animation/translateanimation.php)
 - [Определение начальных размеров View в Android](http://poetofcode.ru/programming/2017/06/12/kak-opredelit-nachalnyue-razmeryu-view-v-android.html)
@@ -135,30 +138,36 @@
 ## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Домашнее задание HW_1
 
 ```
-1. Скачать ресурсы для HW_1 и разместить их в соответстующих директориях
+1. В git сделать ветку домашнего задания "HW_1".
+2. Скачать ресурсы для HW_1 и разместить их в соответстующих директориях. 
+Сделать commit + push.
 ```
 [Download Resources](https://drive.google.com/file/d/1L9cKSTV6GMOGiAi-OzP2Hj4PlRyo3BAP/view?usp=sharing)
 ```
 
-2. Создать три кнопки "Dog", "Cat", "Cthulhu", и расположить их в майн активити таким образом:
+3. Создать три кнопки "Dog", "Cat", "Cthulhu", и расположить их в майн активити таким образом:
 ```
 ![buttons](https://cdn1.savepice.ru/uploads/2019/2/3/124cf95c5458fc74cab839ce0a814acb-full.jpg)
 ```
-кнопки не должны менять свое относительное положение в зависимости от размера экрана устройства.
+кнопки не должны менять свое относительное положение в зависимости от размера экрана устройства. 
+Сделать commit + push.
 
-3. Создать новое Activity "WalkActivity", 
+4. Создать новое Activity "WalkActivity", 
 - в MainActivity все три кнопки должны при нажатии менять активити на WalkActivity
 - расположите в WalkActivity кнопку "home", для перехода обратно к MainActivity 
 - расположите в WalkActivity ImageView в котором должно отображаться изображение того животного с названием 
 которого была нажата кнопка в MainActivity. (размер ImageView подберите исходя из здравого смысла:))
 - Примените к этому ImageView бесконечную анмацию перемещения по экрану в случайном направлении и на случайное 
 растояние. ImageView не должен заходить за края видимого экрана.
+Сделать commit + push.
 
-
-4. Optional
+5. Optional
 - Сделать так, что бы изображение животного в WalkActivity поворачивось лицом в направлении движения.
-5. Optional 2 (Задание со звёздочкой)
+Сделать commit + push.
+
+6. Optional 2 (Задание со звёздочкой)
 - *Сделать так, что бы при нажатии на изображение животного воспроизводился соответстующий животному звук.
+Сделать commit + push.
 ```
 
 #### Замечания к HW1
