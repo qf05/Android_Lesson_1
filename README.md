@@ -85,7 +85,6 @@
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [О проекте и установка ПО.](https://drive.google.com/open?id=1_rCSROQjSxQ8dqpNgOKuAsQacN59KGf_)
 
 #### 1. Установить ПО (git, JDK8, Android Studio, Genymotion)
-
 #### 2. Создать аккаунт на GitHub
 
 - [**Android Studio**](https://developer.android.com/studio/)
@@ -101,9 +100,7 @@
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. Hello World
 
 #### 1. Сделать Fork **[ЭТОГО](https://github.com/qf05/Android_Lesson_1)** проекта
-
 #### 2. [Скачать патчи](https://drive.google.com/open?id=1WPWIwHDHmeuf93dWTtaHloWpvX1Xkb9s)
-
 #### 3. Применить 1_0_hallo_world.patch (apply + commit + push)
 
 - [Компоненты экрана](https://startandroid.ru/ru/uroki/vse-uroki-spiskom/13-urok-4-elementy-ekrana-i-ih-svojstva.html)
