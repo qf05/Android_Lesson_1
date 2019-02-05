@@ -158,7 +158,7 @@
 4. Optional
 - Сделать так, что бы изображение животного в WalkActivity поворачивось лицом в направлении движения.
 5. Optional 2 (Задание со звёздочкой)
-- * Сделать так, что бы при нажатии на изображение животного воспроизводился соответстующий животному звук.
+- *Сделать так, что бы при нажатии на изображение животного воспроизводился соответстующий животному звук.
 ```
 
 #### Замечания к HW1
@@ -166,8 +166,8 @@
 - [Работа с ресурсами](https://metanit.com/java/android/2.4.php)
 - [Передача данных между Activity](http://developer.alexanderklimov.ru/android/activity.php#passdata)
 - для вычисления угла поворота используйте класс Math.
-- * Почитайте про класс [ObjectAnimator](https://developer.android.com/reference/android/animation/ObjectAnimator)
-- * [Android: MediaPlayer create](https://stackoverflow.com/questions/12154951/android-mediaplayer-create)
+- *Почитайте про класс [ObjectAnimator](https://developer.android.com/reference/android/animation/ObjectAnimator)
+- *[Android: MediaPlayer create](https://stackoverflow.com/questions/12154951/android-mediaplayer-create)
 
 ---
 
