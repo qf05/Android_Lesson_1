@@ -80,6 +80,7 @@
 - Сделать ветку домашнего задания
 - Выполнить задание и залить на GitHub (commit + push)
 - Переключиться в основную ветку проекта master.
+
 **[Wiki по ведению проекта в Git](https://github.com/JavaOPs/topjava/wiki/Git)**
 
 ## [Материалы занятия](https://drive.google.com/open?id=1WPWIwHDHmeuf93dWTtaHloWpvX1Xkb9s)
