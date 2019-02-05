@@ -59,7 +59,7 @@
   - Spinner Adapter
   - No title bar
   - Добавление коммерческой рекламы Admob
-  - landscape
+  - Landscape
   - Домашнее задание: HW_4
 
 - #### Занятие 5 
@@ -80,28 +80,24 @@
 ### **[Wiki по ведению проекта в Git](https://github.com/JavaOPs/topjava/wiki/Git)**
 
 
-## Занятие 1
+# Занятие 1
 
-### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [О проекте и установка ПО.](https://drive.google.com/open?id=1_rCSROQjSxQ8dqpNgOKuAsQacN59KGf_)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [О проекте и установка ПО](https://drive.google.com/open?id=1_rCSROQjSxQ8dqpNgOKuAsQacN59KGf_)
 
-#### 1. Установить ПО (git, JDK8, Android Studio, Genymotion)
-#### 2. Создать аккаунт на GitHub
+1. Установить ПО ([JDK8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html), [Git](https://git-scm.com/downloads), [**Android Studio**](https://developer.android.com/studio/), [**Genymotion**](https://www.genymotion.com))
+2. Создать аккаунт на GitHub
 
-- [**Android Studio**](https://developer.android.com/studio/)
-- [**Genymotion**](https://www.genymotion.com)
-- [GIT](https://git-scm.com/downloads)
+- [Как установить JDK8](https://www.youtube.com/watch?v=D59Sd7D58F0) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
 - [Установка GIT](https://www.youtube.com/watch?v=mpK_MYb38zs) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
-- [Что такое Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s/edit) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
+  - [Что такое Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s/edit) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
   - [Видео по обучению Git](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
   - [Основы Git за 20 минут](https://www.youtube.com/watch?v=TMeZGvtQnT8) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
-- [JDK8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-- [Как установить JDK8](https://www.youtube.com/watch?v=D59Sd7D58F0) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
 
-### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. Hello World
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. Hello World
 
-#### 1. Сделать Fork **[ЭТОГО](https://github.com/qf05/Android_Lesson_1)** проекта
-#### 2. [Скачать патчи](https://drive.google.com/open?id=1WPWIwHDHmeuf93dWTtaHloWpvX1Xkb9s)
-#### 3. Применить 1_0_hallo_world.patch (apply + commit + push)
+1. Сделать Fork **[ЭТОГО](https://github.com/qf05/Android_Lesson_1)** проекта
+2. **[Скачать патчи](https://drive.google.com/open?id=1WPWIwHDHmeuf93dWTtaHloWpvX1Xkb9s)**
+3. Применить 1_0_hallo_world.patch (apply + commit + push)
 
 - [Компоненты экрана](https://startandroid.ru/ru/uroki/vse-uroki-spiskom/13-urok-4-elementy-ekrana-i-ih-svojstva.html)
 - [Layout](http://developer.alexanderklimov.ru/android/theory/layout.php)
@@ -110,22 +106,22 @@
 - [Единицы измерения](http://developer.alexanderklimov.ru/android/theory/scales.php)
 - [ImageView](http://developer.alexanderklimov.ru/android/views/imageview.php)
 
-### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. Смена активити.
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. Смена активити.
 
-#### Применить 1_1_other_activity.patch (apply + commit + push)
+Применить 1_1_other_activity.patch (apply + commit + push)
 
 - [Activity](http://developer.alexanderklimov.ru/android/theory/activity-theory.php#what)
 - [Button](http://developer.alexanderklimov.ru/android/views/button.php)
 
-### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. Анимация
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. Анимация
 
-#### Применить 1_2_animation.patch (apply + commit + push)
+Применить 1_2_animation.patch (apply + commit + push)
 
 - [Анимация преобразований](http://developer.alexanderklimov.ru/android/animation/tweenanimation.php)
 
-### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 5. TranslateAnimation
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 5. TranslateAnimation
 
-#### Применить 1_3_translate_animation.patch (apply + commit + push)
+Применить 1_3_translate_animation.patch (apply + commit + push)
 
 - [TranslateAnimation](http://developer.alexanderklimov.ru/android/animation/translateanimation.php)
 - [Определение начальных размеров View в Android](http://poetofcode.ru/programming/2017/06/12/kak-opredelit-nachalnyue-razmeryu-view-v-android.html)
