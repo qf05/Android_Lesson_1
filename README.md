@@ -175,7 +175,7 @@
 
 - [Работа с ресурсами](https://metanit.com/java/android/2.4.php)
 - [Передача данных между Activity](http://developer.alexanderklimov.ru/android/activity.php#passdata)
-- для вычисления угла поворота используйте класс Math
+- Для вычисления угла поворота используйте класс [Math](https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html)
 - [Android: MediaPlayer create](https://stackoverflow.com/questions/12154951/android-mediaplayer-create)
 - Почитайте про класс [ObjectAnimator](https://developer.android.com/reference/android/animation/ObjectAnimator)
 
