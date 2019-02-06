@@ -75,7 +75,7 @@
 
 - Установить ПО ([JDK8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html), [Git](https://git-scm.com/downloads), [**Android Studio**](https://developer.android.com/studio/), [**Genymotion**](https://www.genymotion.com))
 - Создать аккаунт на [GitHub](https://github.com)
-- **Прочитать [Wiki по ведению проекта в Git](https://github.com/JavaOPs/topjava/wiki/Git)!**
+- **Прочитать [Wiki по ведению проекта в Git](https://github.com/JavaOPs/topjava/wiki/Git) !**
 
 + [Как установить JDK8](https://www.youtube.com/watch?v=D59Sd7D58F0) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
 + [Установка GIT](https://www.youtube.com/watch?v=mpK_MYb38zs) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
@@ -140,7 +140,7 @@
 2. Скачать ресурсы для HW_1 и разместить их в соответстующих директориях. 
 Сделать commit.
 ```
-[Download Resources](https://drive.google.com/file/d/1L9cKSTV6GMOGiAi-OzP2Hj4PlRyo3BAP/view?usp=sharing)
+[Ресурсы для HW_1](https://drive.google.com/file/d/1L9cKSTV6GMOGiAi-OzP2Hj4PlRyo3BAP/view?usp=sharing)
 ```
 
 3. Создать три кнопки "Dog", "Cat", "Cthulhu", и расположить их в activity_main таким образом:
