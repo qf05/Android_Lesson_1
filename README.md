@@ -69,16 +69,13 @@
 
 ---
 
-### **[Wiki по ведению проекта в Git](https://github.com/JavaOPs/topjava/wiki/Git)**
-
----
-
 # Занятие 1
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [О проекте и установка ПО](https://drive.google.com/open?id=1_rCSROQjSxQ8dqpNgOKuAsQacN59KGf_)
 
 - Установить ПО ([JDK8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html), [Git](https://git-scm.com/downloads), [**Android Studio**](https://developer.android.com/studio/), [**Genymotion**](https://www.genymotion.com))
 - Создать аккаунт на [GitHub](https://github.com)
+- **Прочитать [Wiki по ведению проекта в Git](https://github.com/JavaOPs/topjava/wiki/Git)!**
 
 + [Как установить JDK8](https://www.youtube.com/watch?v=D59Sd7D58F0) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
 + [Установка GIT](https://www.youtube.com/watch?v=mpK_MYb38zs) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
