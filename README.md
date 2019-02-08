@@ -80,9 +80,9 @@
 + [Как установить JDK8](https://www.youtube.com/watch?v=D59Sd7D58F0) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
 + [Установка GIT](https://www.youtube.com/watch?v=mpK_MYb38zs) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
 
-- [Установка Java 8 в Linux](https://www.youtube.com/watch?time_continue=136&v=RgJQKZhD210) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
+- [Установка Java 8 в Linux](https://www.youtube.com/watch?v=RgJQKZhD210) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
 - [Установка GIT в Linux](https://www.youtube.com/watch?v=f6b5p5ss1nA) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
-- [Установка Android Studio и Genymotion в Linux](https://www.youtube.com/watch?time_continue=35&v=qgfiA7cEGmI) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
+- [Установка Android Studio и Genymotion в Linux](https://www.youtube.com/watch?v=qgfiA7cEGmI) <img src="https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png" width="15"/>
 
 #### Материалы:
 
