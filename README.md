@@ -151,8 +151,8 @@
 Сделать commit.
 
 4. Создать новое Activity "WalkActivity", 
-- создать layout фаил для WalkActivity, в нем добавить ImageView с изобращением fon_walk.jpg так же, как это сделано 
-в activity_other
+- создать layout фаил для WalkActivity, в нем добавить ImageView с изобращением fon_walk.jpg так же, как это 
+сделано в activity_other
 - в MainActivity все три кнопки должны при нажатии менять активити на WalkActivity
 - расположите в WalkActivity кнопку "home", для перехода обратно к MainActivity, дизайн кнопки сделайте такой же, 
 как в activity_other
