@@ -179,7 +179,9 @@
 - [Работа с ресурсами](https://metanit.com/java/android/2.4.php)
 - [Передача данных между Activity](http://developer.alexanderklimov.ru/android/activity.php#passdata)
 - Для вычисления угла поворота используйте класс [Math](https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html)
-- [Android: MediaPlayer create](https://stackoverflow.com/questions/12154951/android-mediaplayer-create)
+- [Play sound using SoundPool](https://stackoverflow.com/questions/17069955/play-sound-using-soundpool-example/27552576#27552576)
+- [Класс SoundPool](http://developer.alexanderklimov.ru/android/theory/soundpool.php#builder)
+- [Кто сказал Мяу? - работаем со звуками](http://developer.alexanderklimov.ru/android/whosaidmeow.php)
 - Почитайте про класс [ObjectAnimator](https://developer.android.com/reference/android/animation/ObjectAnimator)
 
 ---
@@ -188,6 +190,7 @@
 
 ### Дополнительные материалы:
 
+[Анимация в Android](https://android-tools.ru/coding/animaciya-v-android/)
 
 [Анимации в Android по полочкам](https://habr.com/ru/post/347918/)
 
