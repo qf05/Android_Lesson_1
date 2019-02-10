@@ -140,7 +140,7 @@
 2. Скачать ресурсы для HW_1 и разместить их в соответстующих директориях. 
 Сделать commit.
 ```
-[Ресурсы для HW_1](https://drive.google.com/file/d/1L9cKSTV6GMOGiAi-OzP2Hj4PlRyo3BAP/view?usp=sharing)
+[Ресурсы для HW_1](https://drive.google.com/drive/folders/1l4zY8PCY528RgwevUaoaclhuJDCrPasJ?usp=sharing)
 ```
 
 3. Создать три кнопки "Dog", "Cat", "Cthulhu", и расположить их в activity_main таким образом:
