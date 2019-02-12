@@ -145,7 +145,8 @@
 
 3. Создать три кнопки "Dog", "Cat", "Cthulhu", и расположить их в activity_main таким образом:
 ```
-![buttons](https://cdn1.savepice.ru/uploads/2019/2/3/124cf95c5458fc74cab839ce0a814acb-full.jpg)
+<img src="https://cdn1.savepice.ru/uploads/2019/2/12/5c47b4c5afc9f89bc8a4fa6e9a5ce798-full.jpg" width="250"/>
+
 ```
 кнопки не должны менять свое относительное положение в зависимости от параметров экрана устройства. 
 Сделать commit.
@@ -174,7 +175,7 @@
 Отрпавить на проверку ДЗ. (для тех, кто оплатил проверку ДЗ)
 ```
 
-<img src="https://i.yapx.ru/DWyV7.gif" width="200"/>
+<img src="https://i.yapx.ru/DWyV7.gif" width="250"/>
 
 #### Подсказки к HW1
 
