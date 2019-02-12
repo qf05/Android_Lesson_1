@@ -174,7 +174,7 @@
 Отрпавить на проверку ДЗ. (для тех, кто оплатил проверку ДЗ)
 ```
 
-![example](https://i.yapx.ru/DWyV7.gif)
+<img src="https://i.yapx.ru/DWyV7.gif" width="200"/>
 
 #### Подсказки к HW1
 
