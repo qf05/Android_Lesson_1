@@ -186,6 +186,8 @@
 - [Класс SoundPool](http://developer.alexanderklimov.ru/android/theory/soundpool.php#builder)
 - [Кто сказал Мяу? - работаем со звуками](http://developer.alexanderklimov.ru/android/whosaidmeow.php)
 - Почитайте про класс [ObjectAnimator](https://developer.android.com/reference/android/animation/ObjectAnimator)
+- [Коснись меня нежно](http://developer.alexanderklimov.ru/android/views/button.php#noborder)
+- [PerformClick](https://stackoverflow.com/questions/47107105/android-button-has-setontouchlistener-called-on-it-but-does-not-override-perform)
 
 ---
 
