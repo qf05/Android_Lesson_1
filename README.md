@@ -32,15 +32,15 @@
   - AnimationListener
   - AnimationSet
   - Домашнее задание: HW_1
-        - Добавление ресурсов
-        - Создание и расположение кнопок
-        - Создание нового Активити
-        - Создание анимации 
-            - TranslateAnimation
-            - RotateAnimation
-            - ObjectAnimator, AnimatorSet
-        - SoundPool
-        - TouchListener
+      - Добавление ресурсов
+      - Создание и расположение кнопок
+      - Создание нового Активити
+      - Создание анимации 
+          - TranslateAnimation
+          - RotateAnimation
+          - ObjectAnimator, AnimatorSet
+      - SoundPool
+      - TouchListener
 
 - #### Занятие 2
 
@@ -53,11 +53,11 @@
   - Shared Preferences
   - RecyclerView
   - Домашнее задание: HW_2
-        - Shared Preferences
-        - AlertDialog
-        - Create DAO
-        - RecyclerView
-        - LifeCycle
+      - Shared Preferences
+      - AlertDialog
+      - Create DAO
+      - RecyclerView
+      - LifeCycle
 
 - #### Занятие 3
 
@@ -69,10 +69,10 @@
   - BootReceiver
   - ProgressBar
   - Домашнее задание: HW_3
-        - ProgressBar
-        - AlarmManager
-        - Notification
-        - ImageView
+      - ProgressBar
+      - AlarmManager
+      - Notification
+      - ImageView
 
 - #### Занятие 4
 
@@ -89,9 +89,9 @@
   - Executor
   - Landscape
   - Домашнее задание: HW_4
-        - ListView
-        - 
-        - 
+      - ListView
+      - 
+      - 
 
 - #### Занятие 5 
 
