@@ -26,20 +26,38 @@
   - Layout
   - ImageView
   - Button
+  - ClickListener
   - Смена Activity
   - Animation
+  - AnimationListener
+  - AnimationSet
   - Домашнее задание: HW_1
+        - Добавление ресурсов
+        - Создание и расположение кнопок
+        - Создание нового Активити
+        - Создание анимации 
+            - TranslateAnimation
+            - RotateAnimation
+            - ObjectAnimator, AnimatorSet
+        - SoundPool
+        - TouchListener
 
 - #### Занятие 2
 
   - Разбор HW_1
-  - Создание меню
   - Lifecycle приложения на Android
+  - Сохранение состояния Activity
+  - Создание меню
   - AlertDialog
   - DataBase  SQLite
   - Shared Preferences
   - RecyclerView
   - Домашнее задание: HW_2
+        - Shared Preferences
+        - AlertDialog
+        - Create DAO
+        - RecyclerView
+        - LifeCycle
 
 - #### Занятие 3
 
@@ -48,23 +66,38 @@
   - AlarmManager
   - Handler
   - Notification
+  - BootReceiver
   - ProgressBar
   - Домашнее задание: HW_3
+        - ProgressBar
+        - AlarmManager
+        - Notification
+        - ImageView
 
 - #### Занятие 4
 
   - Разбор HW_3
-  - Рефакторинг
-  - SoundPool
+  - DelegateAdapter
+  - Title Bar
   - Spinner Adapter
-  - No title bar
-  - Добавление коммерческой рекламы Admob
+  - Checkbox Selector
+  - ExpandableListView
+  - Context Menu
+  - View Model
+  - Live Data
+  - AsyncTask
+  - Executor
   - Landscape
   - Домашнее задание: HW_4
+        - ListView
+        - 
+        - 
 
 - #### Занятие 5 
 
   - Разбор HW_4
+  - Локализация
+  - Добавление коммерческой рекламы Admob
   - Публикация приложения в Google Play
 
 ---
