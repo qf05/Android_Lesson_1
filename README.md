@@ -1,5 +1,5 @@
 
-<img src="https://cdn1.savepice.ru/uploads/2019/2/3/50aa6328bda9132ab6e0266ac6c7dcc7-full.png"/>
+<img src="https://lh3.googleusercontent.com/cnijMiTRifrSs4HwbEX-AtN--QxP8KwW1GB22yE62aulw1Yfyin1u9xSIDVsTk3ViZKqEzDPoSt8LivslSVT0LHjTZGP4imV6qeZ-jcV-dCwIuwyDYUdt-HOTX_nk79iuhvMuFKFqQ=w1075-h246-no"/>
 
 # Star Android & JAVA Online Projects  представляют:
 
@@ -178,7 +178,7 @@
 
 3. Создать три кнопки "Dog", "Cat", "Cthulhu", и расположить их в activity_main таким образом:
 ```
-<img src="https://cdn1.savepice.ru/uploads/2019/2/12/5c47b4c5afc9f89bc8a4fa6e9a5ce798-full.jpg" width="250"/>
+<img src="https://lh3.googleusercontent.com/oRrkR0aRU-Yp9K5zDLVo2o6rkCKmhO8R8ZVyjIPvIBOyE9FQE1E1lIt7dwO4_HrNJynZfuGaUoSW0ZOGHwW-_NhXL-ChIS1oEoXBm_RdGMWQYsBKK4MO_iiTFModPWZ6KihWEJ6qy9rLQGQzkR4muRbDIlf3pFiCb7qMeoCYi_zx_6XfhoeI7kmI2OqLQFjubGuAqC_QZYW5oquMdob9ohIu_giQ6g4stK8HoiPEwJh94jynOa8vOUXtJgOAz9fFz5VSmuR73dCX47S-2p7fwYKoCvSBXjOKyyjWVObBPxcLOW3Ncxd8s59K29wVu38hzlqWRU3KRPwICg1mF_cg8883gkL7KPq4mGX8APbD2Utt1l1DMmggFwQYinhRa2GeEzM76lh84KEjrnvsinLp8DB-XGsHaqyIk0H_SX8vjM21Mi_SWzX3SG_YtESgmZV_ATUDpkCLHRXmsS6baM2d5oo7067PBCKewh5JCAESVbHpdOlbHg7CI-ezkz36xRxZuxW6KKYLr8cR2nHdaeKWFl3o4aUdzT4_X0UUgKk9Q5FZpZypWm8k3v7vYC-0qxtNvci8cd7XbPk6bjdGwtkA6WxzVfVx8YMxI9BT2BCi08mDAV7_z5N4sis4lBOUDFrkPeXBptpMiu99mkSEraGNNwuTBFAWmPM=w274-h460-no" width="250"/>
 
 ```
 кнопки не должны менять свое относительное положение в зависимости от параметров экрана устройства. 
